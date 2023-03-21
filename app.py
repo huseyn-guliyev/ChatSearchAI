@@ -67,5 +67,5 @@ with st.expander("Further possible development perspectives"):
    2) Searching inside video and audio data
    3) Question answering based on images, etc.
    
-   Open to collaboration and pull requests. See [GitHub repo](https://github.com)
+   Open to collaboration and pull requests. See [GitHub repo](https://github.com/huseyn-guliyev/ChatSearchAI)
    """)
