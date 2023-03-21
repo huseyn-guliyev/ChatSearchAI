@@ -1,6 +1,6 @@
 # ChatSearchAI targets to enable AI powered search in chats
 
-Currently the application in the repository supports only AI based image search which uses OpenAI's CLIP model to retrieve related images _underscores_.
+Currently the application in the repository supports only AI based image search which uses OpenAI's CLIP model to retrieve related images.
 
 The application can be further redeveloped using
 
