@@ -25,7 +25,7 @@ image_features = np.load('./image_features.npy')
 
 messages = pd.read_json('news_with_photo_index.json')
 
-st.set_page_config(page_title= 'Reverse Image search - ChatAI')
+st.set_page_config(page_title= 'ChatSearchAI')
 # tab1, tab2 = st.tabs(["Search from images", "Further redevelopment"])
 st.title('AI powered Chat Search - ChatSearchAI')
 st.info('Note that model\'s performance is dependent on OpenAI\'s CLIP model', icon="ℹ️")
