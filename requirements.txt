@@ -1,6 +1,6 @@
 absl-py==1.1.0
-altair==4.2.0
-angel-cd==1.0.3
+altair
+angel-cd
 appdirs==1.4.4
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
@@ -215,6 +215,7 @@ wcwidth==0.2.5
 webencodings==0.5.1
 Werkzeug==2.0.3
 widgetsnbextension==3.6.0
+windows-curses==2.3.0
 wrapt==1.14.1
 xgboost==1.5.2
 yarg==0.1.9
