@@ -9,3 +9,9 @@ The application can be further redeveloped using
 + Question answering based on images, etc.
 
 Open to collaboration and pull requests.
+
+See how application works:
+
+
+https://user-images.githubusercontent.com/60074280/226812487-effb56f8-7f5a-42b8-9d78-bcb8d6f94085.mp4
+
