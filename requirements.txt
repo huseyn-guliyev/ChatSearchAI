@@ -2,7 +2,7 @@ pandas==1.4.1
 numpy==1.24.1
 sentence-transformers==2.2.2
 transformers==4.27.3
-PIL==9.0.1
+Pillow==9.4.0
 clip @ git+https://github.com/openai/CLIP.git@a9b1bf5920416aaeaec965c25dd9e8f98c864f16
 pysbd==0.3.4
 streamlit==1.19.0
