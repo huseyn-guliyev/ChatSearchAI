@@ -12,5 +12,7 @@ Open to collaboration and pull requests.
 See how application works:
 
 
-https://user-images.githubusercontent.com/60074280/226812487-effb56f8-7f5a-42b8-9d78-bcb8d6f94085.mp4
+
+
+https://user-images.githubusercontent.com/60074280/227766903-e0088c45-0faf-4514-a4e1-2e9aadbbc8f3.mp4
 
